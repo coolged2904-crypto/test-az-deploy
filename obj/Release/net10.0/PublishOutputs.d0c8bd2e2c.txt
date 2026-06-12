@@ -1,0 +1,13 @@
+D:\AZ-203\publish\bin\Release\net10.0\publish\publish.exe
+D:\AZ-203\publish\bin\Release\net10.0\publish\deploy\web.config
+D:\AZ-203\publish\bin\Release\net10.0\publish\appsettings.Development.json
+D:\AZ-203\publish\bin\Release\net10.0\publish\appsettings.json
+D:\AZ-203\publish\bin\Release\net10.0\publish\deploy\appsettings.Development.json
+D:\AZ-203\publish\bin\Release\net10.0\publish\deploy\appsettings.json
+D:\AZ-203\publish\bin\Release\net10.0\publish\deploy\publish.deps.json
+D:\AZ-203\publish\bin\Release\net10.0\publish\deploy\publish.runtimeconfig.json
+D:\AZ-203\publish\bin\Release\net10.0\publish\deploy\publish.staticwebassets.endpoints.json
+D:\AZ-203\publish\bin\Release\net10.0\publish\publish.dll
+D:\AZ-203\publish\bin\Release\net10.0\publish\publish.deps.json
+D:\AZ-203\publish\bin\Release\net10.0\publish\publish.runtimeconfig.json
+D:\AZ-203\publish\bin\Release\net10.0\publish\publish.pdb

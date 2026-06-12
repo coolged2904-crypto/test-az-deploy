@@ -1,0 +1,7 @@
+D:\AZ-203\publish\deploy\publish.exe
+D:\AZ-203\publish\deploy\appsettings.Development.json
+D:\AZ-203\publish\deploy\appsettings.json
+D:\AZ-203\publish\deploy\publish.dll
+D:\AZ-203\publish\deploy\publish.deps.json
+D:\AZ-203\publish\deploy\publish.runtimeconfig.json
+D:\AZ-203\publish\deploy\publish.pdb
