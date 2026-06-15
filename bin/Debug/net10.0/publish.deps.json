@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "publish/1.0.0": {
+        "dependencies": {
+          "Microsoft.Extensions.Logging.AzureAppServices": "10.0.9"
+        },
+        "runtime": {
+          "publish.dll": {}
+        }
+      },
+      "Microsoft.Extensions.Logging.AzureAppServices/10.0.9": {
+        "runtime": {
+          "lib/net10.0/Microsoft.Extensions.Logging.AzureAppServices.dll": {
+            "assemblyVersion": "10.0.9.0",
+            "fileVersion": "10.0.926.27113"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "publish/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Extensions.Logging.AzureAppServices/10.0.9": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Hixv2DvC+eUyn2BaPnX4v6v+vS9PmfgahIdw7EHiM5GyJTYqI8RUGofOig4jfDHO0iZQKwc2kqZclU2jWwjRBQ==",
+      "path": "microsoft.extensions.logging.azureappservices/10.0.9",
+      "hashPath": "microsoft.extensions.logging.azureappservices.10.0.9.nupkg.sha512"
+    }
+  }
+}
